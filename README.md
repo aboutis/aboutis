@@ -1,8 +1,6 @@
 ### Hi there 👋
 [![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutis)](https://github.com/aboutis/github-readme-stats)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={aboutis}&theme={default}
-
 <!--
 **aboutis/aboutis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
